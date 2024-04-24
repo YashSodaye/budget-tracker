@@ -14,6 +14,9 @@
     "categories": {
       "auth": {
         "budgettrackere5c090a7": {}
+      },
+      "api": {
+        "budgettracker": {}
       }
     }
   }
